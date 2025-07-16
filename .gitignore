@@ -1,0 +1,23 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Dependency directories
+node_modules/
+venv/
+__pycache__/
+
+# Build files
+dist/
+build/
+*.pyc
+
+# IDE settings
+.vscode/
+.idea/
